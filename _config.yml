@@ -1,0 +1,11 @@
+title: "Wonjin Kim"
+description: "AI researcher · OCT imaging · RAG systems"
+url: "https://www.wjkim.com"   # 커스텀 도메인
+baseurl: ""                    # 루트 도메인에서 서비스할 때는 빈 문자열
+
+theme: minima                  # GitHub Pages 기본 테마
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
