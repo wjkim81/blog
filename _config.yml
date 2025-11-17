@@ -9,3 +9,12 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - tags
+  layouts:
+    tag: tag-archive
+  permalinks:
+    tag: '/tags/:name/'
