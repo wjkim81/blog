@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Categories
+permalink: /categories/
 ---
 
 <h1>Categories</h1>
