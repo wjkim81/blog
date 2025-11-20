@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I Learned After Using AI Every Day for a Year"
-date: 2025-11-20
+date: 2025-11-19
 published: true
 categories: [AI]
 tags: [AI, RAG, Research, Productivity]

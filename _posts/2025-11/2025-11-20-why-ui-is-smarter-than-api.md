@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ChatGPT/Claude prompt is not simple UI interface"
-date: 2025-11-21
+title: “ChatGPT/Claude Prompt UI Is Not a Simple UI Layer”
+date: 2025-11-20
 published: true
 categories: [AI]
 tags: [AI, Orchestration, RAG, Prompt]
@@ -373,7 +373,7 @@ English translation below was created with AI-assisted translation workflow.
 하지만 직접 만들어본 순간, 모든 AI 엔지니어가 한 번은 겪는 충격을 맞닥뜨렸다.
 
 > **내 RAG 시스템은 완전 바보라는 것.
-> ChatGPT, Claude prompot로 얻어내는 답변과는 비교도 되지 않았다.**
+> ChatGPT, Claude prompt로 얻어내는 답변과는 비교도 되지 않았다.**
 
 그래서 생각한게
 
