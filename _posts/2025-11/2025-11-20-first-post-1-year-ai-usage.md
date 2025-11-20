@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "My Draft Post"
+title: "AI를 1년간 매일 사용하며 깨달은 핵심"
 date: 2025-11-20
-published: false
+published: true
+categories: [AI]
 tags: [AI, RAG, Research, Productivity]
 ---
 
