@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Ruby / Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Node (if you later add JS tooling)
+node_modules/
+
+# Jekyll drafts compiled output (optional)
+# _drafts/
