@@ -2,7 +2,7 @@
 layout: post
 title: "ChatGPT/Claude prompt is not simple UI interface"
 date: 2025-11-21
-published: True
+published: true
 categories: [AI]
 tags: [AI, Orchestration, RAG, Prompt]
 ---
