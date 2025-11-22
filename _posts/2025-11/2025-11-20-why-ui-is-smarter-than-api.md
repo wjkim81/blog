@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “ChatGPT/Claude Prompt UI Is Not a Simple UI Layer”
+title: "ChatGPT/Claude Prompt UI Is Not a Simple UI Layer"
 date: 2025-11-20
 published: true
 categories: [AI]

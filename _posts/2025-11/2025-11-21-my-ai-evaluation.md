@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "One Year of Using AI Every Day — And How Gemini Finally Passed My Personal Test"
-date: 2025-11-22
+title: "My Personal Test on AI models"
+date: 2025-11-21
 published: true
 categories: [AI, Psychology]
-tags: [AI, Gemini 3.0, Orchestration, RAG, Psychology, Reasoning]
+tags: [AI, Gemini 3.0, Psychology, Reasoning]
 ---
 
 # **One Year of Using AI Every Day — And How Gemini Finally Passed My Personal Test**
 
-![AI Generated Image.](/assets/images/2025-11-21-gemini-generated-iq-vs-eq.png)
+### 개인적인 AI 모델 평가 방법
 
+![AI Generated Image.](/assets/images/2025-11-21-gemini-generated-iq-vs-eq.png)
 
 ### **0. The Irony No One Talks About**
 
@@ -549,7 +550,7 @@ AI를 보면 다음과 같은 아이러니를 느낀다.
 
 ---
 
-# ⭐ 1. 왜 나는 “대화 품질”로 AI를 평가하지 않는가
+## ⭐ 1. 왜 나는 “대화 품질”로 AI를 평가하지 않는가
 
 1년 동안, AI를 헤비하게 사용하면서, 내가 AI를 활용한 분야는 단순 질문/답변을 얻는데는 아니었다:
 
@@ -579,9 +580,9 @@ AI를 보면 다음과 같은 아이러니를 느낀다.
 
 ---
 
-# ⭐ 2. 나만의 기준 질문:
+## ⭐ 2. 나만의 기준 질문:
 
-## **“이 감정적 셧다운의 근본 원인은 무엇인가?”**
+### **“이 감정적 셧다운의 근본 원인은 무엇인가?”**
 
 심리 관련 프로젝트를 하며 나는 계속해서 다음의 질문으로 돌아왔다.
 
@@ -610,7 +611,7 @@ AI를 보면 다음과 같은 아이러니를 느낀다.
 
 ---
 
-# ⭐ 3. Gemini 3.0, 드디어 통과하다
+## ⭐ 3. Gemini 3.0, 드디어 통과하다
 
 이번에 새로 나온 **Gemini 3.0**을 똑같은 질문으로 테스트했다.
 
@@ -636,7 +637,7 @@ Gemini가 인식한 것:
 
 ---
 
-# ⭐ 4. 내 AI 평가 방식이 달랐던 점
+## ⭐ 4. 내 AI 평가 방식이 달랐던 점
 
 위에서 보다시피 모델에게 요구하는 건 다음과 같다:
 
@@ -651,7 +652,7 @@ Gemini가 인식한 것:
 
 ---
 
-# ⭐ 5. 정리 메시지 논쟁 — 모델마다 왜 답이 다른가
+## ⭐ 5. 정리 메시지 논쟁 — 모델마다 왜 답이 다른가
 
 어려운 상황에서 다음과 같은 질문을 해보았다.
 
@@ -680,7 +681,7 @@ Gemini가 인식한 것:
 
 ---
 
-## **ChatGPT — 감정적 진정성 기반 접근 (OpenAI)**
+### **ChatGPT — 감정적 진정성 기반 접근 (OpenAI)**
 
 핵심은 “표현 자체는 괜찮다. 단, 압박하지 않는 선에서.”
 
@@ -688,14 +689,14 @@ Gemini가 인식한 것:
 
 ---
 
-## **Claude — 관계적 균형과 맥락 중심 (Anthropic)**
+### **Claude — 관계적 균형과 맥락 중심 (Anthropic)**
 
 두 사람의 nervous system 모두를 고려하는 접근.
 가장 ‘상담가 같은’ 태도.
 
 ---
 
-## **Gemini — 최대한의 안전과 차단 존중 (Google)**
+### **Gemini — 최대한의 안전과 차단 존중 (Google)**
 
 가장 엄격한 경계 철학.
 “차단 = 절대적 경계”라는 논리를 따른다.
@@ -720,7 +721,7 @@ Gemini가 인식한 것:
 
 ---
 
-# ⭐ 6. AI가 넘지 못하는 마지막 벽: **고차원적 느낌**
+## ⭐ 6. AI가 넘지 못하는 마지막 벽: **고차원적 느낌**
 
 이미 모두가 알다시피 AI는 지식 통합 능력은 뛰어나지만,
 **겉보기와 실제 의미가 다른 패턴을 감지하는 데는 생각보다 약하다.**
@@ -754,7 +755,7 @@ AI에게 그 행동 패턴을 그대로 입력하면:
 
 ---
 
-## 여기서 인간-AI 협력이 생긴다
+### 여기서 인간-AI 협력이 생긴다
 
 이 ‘이상함’을 prompt에 같이 설명하면,
 AI는 위와는 완전히 다른 차원의 분석을 시작한다.
@@ -772,7 +773,7 @@ AI는 내가 직관으로 느낀 것을 다시 언어와 구조로 조직해 준
 
 ---
 
-# ⭐ 7. 마지막 결론
+## ⭐ 7. 마지막 결론
 
 AI를 정말 헤비하게 사용해본 본 결과, 깨달은 바는
 
