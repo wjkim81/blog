@@ -13,6 +13,8 @@ tags: [AI, Orchestration, RAG, Prompt]
 
 ### *Why ChatGPT/Claude UI feels dramatically smarter than API calls — and why this changed how I think about building AI systems.*
 
+![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11-20-tutorial_vs_real_rag.png)
+
 ---
 
 When I spent five days building a RAG system.
@@ -77,8 +79,6 @@ Below is the closest approximation of what’s actually happening under the hood
 I rewrote this in my own words, based on everything I learned the hard way.
 
 ---
-
-![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11-21-tutorial_vs_real_rag.png)
 
 ## **Step 1 — File Upload = Massive Processing Pipeline**
 
@@ -351,7 +351,7 @@ English translation below was created with AI-assisted translation workflow.
 
 ---
 
-## **나는 5일 동안 RAG 시스템을 만들었다. 그리고 그 5일이 내가 준 깨달음**
+## **5일 동안 RAG 시스템을 만들고 그 5일이 내게 준 깨달음**
 
 첫째 날, 자신감에 참.
 셋째 날, 혼란스러움.
@@ -406,8 +406,6 @@ UI에서 보이는 prompt 뒤로 **파일 처리, 메모리, 요약, 모델 라�
 단순하게 만든 만든 벡터 검색 형태의 RAG는 그 시스템과는 **비교도 안 되는 단순한 형태**인데, 뜯어보면 실제로는 다음과 같은 **거대한 파이프라인**이 돌아가고 있다.
 
 ---
-
-![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11-21-tutorial_vs_real_rag.png)
 
 ## **1단계 — 파일 업로드 = 대규모 전처리 파이프라인**
 
@@ -624,6 +622,6 @@ RAG 시스템을 만들면서 나는 LLM 모델 뒤로 일어나는 일에 대�
 
 그리고 이런 경험 때문에 방향도 보이게 된 것 같다.
 
-> 무엇을 더 배워야 할지도 알게 되었고, 내가 만들고 시스템에 대헌 보다 진지한 생각을 하게 되었다.
+> 무엇을 더 배워야 할지도 알게 되었고, 내가 만들고 시스템에 대해 보다 진지한 생각을 하게 되었다.
 
 생각보다 재미있는 여정이라 다행이라고 생각한다.

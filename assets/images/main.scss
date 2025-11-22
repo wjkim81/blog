@@ -1,0 +1,13 @@
+@import "minima";
+
+// Custom footer styles
+.footer-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-description {
+  text-align: right;
+  margin-left: auto;
+}
