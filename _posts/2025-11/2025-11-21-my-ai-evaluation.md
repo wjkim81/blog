@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Personal Test on AI models"
+title: "My Personal AI Evaluation Methods"
 date: 2025-11-21
 published: true
 categories: [AI, Psychology]
