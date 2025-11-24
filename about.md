@@ -6,10 +6,16 @@ permalink: /about/
 
 ## About
 
-안녕하세요, 저는 **Wonjin Kim**입니다.
+Wonjin Kim is an AI researcher and engineer specializing in **deep learning, medical imaging, and  LLM systems**. His work spans medical imaging, computational optics (OCT/CT), AI-assisted behavioral modeling, and end-to-end system architecture integrating **ML models, backend APIs, and RAG pipelines**.
 
-- AI researcher  
-- Deep Learning based Medical Imaging
-- AI System 설계에 관심이 있습니다.
+He is currently **AI researcher** at Nova Science and a **PhD candidate (ABD)** at KAIST, focusing on physics-informed deep learning and computational imaging. Previously, he worked as a research engineer at EWHA AIBI Lab, a technical leader in healthcare platform development, and a software engineer at **IBM Korea**, where he supported DB2 enterprise systems.
 
-이 사이트는 제 연구, 프로젝트, 그리고 개인 생각들을 정리하는 공간입니다.
+Wonjin has authored multiple peer-reviewed papers, holds several patents in AI-powered medical imaging, and designs AI systems that bridge research, engineering, and product integration. His personal blog explores AI research, system design, and long-form technical writing.
+
+## Expertise / Skill Areas
+
+- AI / Deep Learning
+- Medical Imaging (OCT/CT/X-ray)
+- AI System Architecture
+- Backend/API Engineering
+- LLM Systems & RAG
