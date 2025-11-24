@@ -7,15 +7,15 @@ categories: [AI]
 tags: [AI, Orchestration, RAG, Prompt]
 ---
 
-# **I Built a RAG System in 5 Days. Here's Why It Failed (And What I Learned)**
+*I Built a RAG System in 5 Days. Here's Why It Failed (And What I Learned)*
 
-## *5일 만에 RAG 시스템을 직접 구축하며 깨달은 모든 것*
+*5일 만에 RAG 시스템을 직접 구축하며 깨달은 모든 것*
 
-### *Why ChatGPT/Claude UI feels dramatically smarter than API calls — and why this changed how I think about building AI systems.*
+---
 
 ![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11-20-tutorial_vs_real_rag.png)
 
----
+## *Why ChatGPT/Claude UI feels dramatically smarter than API calls — and why this changed how I think about building AI systems.*
 
 When I spent five days building a RAG system.
 
@@ -69,7 +69,7 @@ And once I understood *why*, everything clicked.
 
 ---
 
-# **What’s Actually Happening Behind ChatGPT/Claude UI (The Part I Never Saw)**
+## **What’s Actually Happening Behind ChatGPT/Claude UI (The Part I Never Saw)**
 
 Here is what I realized:
 When I upload files into ChatGPT Projects or Claude Workspaces, the system runs a **large pipeline** that looks NOTHING like my simple vector DB workflow.
@@ -259,7 +259,7 @@ And then displays the final answer neatly.
 
 ---
 
-# **My Personal Realization: Tutorial RAG Is Just the Doorway**
+## **My Personal Realization: Tutorial RAG Is Just the Doorway**
 
 The more I used my own RAG system, the more I saw the gap:
 
@@ -285,7 +285,7 @@ The moment you realize this, everything changes.
 
 ---
 
-# **So What Should *I* Build Instead?**
+## **So What Should *I* Build Instead?**
 
 This is the conclusion I reached:
 
@@ -323,7 +323,7 @@ This is the path forward.
 
 ---
 
-# **Final Reflection — My Breakthrough Understanding**
+## **Final Reflection — My Breakthrough Understanding**
 
 Building my first RAG system wasn’t just a technical exercise.
 It opened my eyes to how **deep** modern AI systems actually are.
@@ -339,11 +339,6 @@ And in a strange way, this realization gave me real path —
 because now I know what the real work is.
 
 Fortunately, I am enjoying this learning!
-
----
-
-📌 Note  
-English translation below was created with AI-assisted translation workflow.
 
 ---
 

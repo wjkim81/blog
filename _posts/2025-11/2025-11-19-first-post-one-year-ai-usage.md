@@ -7,9 +7,9 @@ categories: [AI]
 tags: [AI, RAG, Research, Productivity]
 ---
 
-# **One Year of Heavy AI Usage (ChatGPT and Claude prompt) — What I Really Learned**
+*One Year of Heavy AI Usage (ChatGPT and Claude prompt) — What I Really Learned*
 
-## AI를 1년간 매일 사용하며 깨달은 핵심
+*AI를 1년간 매일 사용하며 깨달은 핵심*
 
 Over the past year, I used AI tools more intensely than almost anyone around me.
 Not casually, not for a few prompts a day — but as a core part of my research, writing, system design, and even psychological analysis.
@@ -241,11 +241,6 @@ AI is not a replacement for human thought.
 AI is an amplifier for **well-organized thought**.
 
 And that is the biggest lesson of all.
-
----
-
-📌 Note  
-English translation below was created with AI-assisted translation workflow.
 
 ---
 

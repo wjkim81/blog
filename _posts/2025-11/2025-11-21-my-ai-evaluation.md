@@ -7,9 +7,11 @@ categories: [AI, Psychology]
 tags: [AI, Gemini 3.0, Psychology, Reasoning]
 ---
 
-# **One Year of Using AI Every Day — And How Gemini Finally Passed My Personal Test**
+*One Year of Using AI Every Day — And How Gemini Finally Passed My Personal Test*
 
-### 개인적인 AI 모델 평가 방법
+*개인적인 AI 모델 평가 방법*
+
+---
 
 ![AI Generated Image.](/assets/images/2025-11-21-gemini-generated-iq-vs-eq.png)
 
