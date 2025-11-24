@@ -2,7 +2,7 @@
 layout: post
 title: "How IBM Lost Two Technological Revolutions — And How Google Avoided the Same Fate"
 date: 2025-11-24
-published: false
+published: true
 categories: [Business]
 tags: [AI, Cloud, Strategy]
 ---
