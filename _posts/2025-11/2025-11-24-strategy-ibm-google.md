@@ -158,7 +158,7 @@ The choice is simple, and it determines the fate of your company: **Strategic Co
 
 ---
 
-* IBMer가 돌아보는 전략적 용기, 조직 문화의 관성, 그리고 ChatGPT 이후의 세계.*
+*IBMer가 돌아보는 전략적 용기, 조직 문화의 관성, 그리고 ChatGPT 이후의 세계.*
 
 ---
 

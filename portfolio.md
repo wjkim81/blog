@@ -18,23 +18,17 @@ permalink: /portfolio/
 - **Methods.** PyTorch, self-supervised learning, CT reconstruction theory, noise modeling, perceptual metric design.  
 - **Outcomes.** Multiple peer-reviewed publications and a comprehensive systematic review defining perceptual-quality-driven evaluation standards for LDCT denoising.
 
----
-
-## **📄 Selected Publications**
+**📄 Selected Publications**
 
 - *A systematic review of deep learning-based denoising for low-dose computed tomography from a perceptual quality perspective* (2024) – **Biomedical Engineering Letters**
 - *An unsupervised two-step training framework for low-dose computed tomography denoising* (2023) – **Medical Physics**
 
----
-
-## **🔒 Selected Patents**
+**🔒 Selected Patents**
 
 - **A learning and restoration method for reducing image noise using a neural network**
 - **Method for removing medical image artifacts using artificial intelligence**
 
----
-
-**➡️ [Full publications & patents →](https://www.wjkim.com/about/)**
+**➡️ [Full publications & patents](https://www.wjkim.com/about/)**
 
 ---
 
