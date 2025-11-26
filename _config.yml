@@ -12,6 +12,7 @@ markdown: kramdown
 header_pages:
   - index.md
   - about.md
+  - portfolio.md
   - categories.md
   - tags.md
 

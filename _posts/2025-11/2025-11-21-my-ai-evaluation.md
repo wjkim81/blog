@@ -13,7 +13,7 @@ tags: [AI, Gemini 3.0, Psychology, Reasoning]
 
 ---
 
-![AI Generated Image.](/assets/images/2025-11-21-gemini-generated-iq-vs-eq.png)
+![AI Generated Image.](/assets/images/2025-11/2025-11-21-gemini-generated-iq-vs-eq.png)
 
 ### **0. The Irony No One Talks About**
 

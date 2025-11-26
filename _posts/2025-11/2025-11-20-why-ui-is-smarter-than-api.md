@@ -13,7 +13,7 @@ tags: [AI, Orchestration, RAG, Prompt]
 
 ---
 
-![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11-20-tutorial_vs_real_rag.png)
+![Tutorial RAG vs Real ChatGPT Orchestration](/assets/images/2025-11/2025-11-20-tutorial_vs_real_rag.png)
 
 ## *Why ChatGPT/Claude UI feels dramatically smarter than API calls — and why this changed how I think about building AI systems.*
 
