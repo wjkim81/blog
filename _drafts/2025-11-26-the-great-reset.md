@@ -258,7 +258,7 @@ Resume Says:
 "5+ years experience in AI/ML and LLMs"
 
 Reality:
-├─ 2018-2021: Traditional ML (scikit-learn, random forests)
+├─ 2018-2021: Deep learning with NLP research
 ├─ 2021-2022: Some BERT fine-tuning
 ├─ 2023: Started learning about LLMs
 ├─ 2024: Built 2-3 RAG projects
@@ -355,6 +355,39 @@ Because the PhD has to unlearn. The engineer just learns.
 
 ---
 
+## A Real Example From the Wild
+
+I found this post on Threads recently. Someone describing their actual AI journey:
+
+> "My deep learning study path:
+> MLP → CNN → Segmentation → Object Detection → Transformer → LLM
+> 
+> About 3 years.
+> 
+> And that's how I became my company's only AI expert.
+> My role changed, salary up ~50% in 3 years."
+
+Three years. Standard learning progression. Became the company's AI expert. 50% salary increase.
+
+**This is what realistic AI growth looks like.**
+
+Now compare to the job postings:
+
+| This Person's Reality | Job Posting Fantasy |
+|-----------------------|---------------------|
+| 3 years learning path | "5+ years LLM experience" |
+| Standard progression (CNN → Transformers → LLM) | "Expert in CV, NLP, RAG, agents, MLOps..." |
+| Became company's "only AI expert" | Would be rejected as "too junior" |
+| 50% salary increase, role expanded | Demands PhD + 10 years IT experience |
+
+This person IS what companies actually need.
+
+But they probably wouldn't pass the job posting filter.
+
+**The job postings are rejecting exactly the people who could help.**
+
+---
+
 ## What This Means for Job Postings
 
 When you see:
@@ -402,9 +435,9 @@ Cloud computing had 4+ years to develop expertise before peak demand.
 
 Data science had 5+ years.
 
-LLMs had 24 months.
+LLMs had 36 months.
 
-No amount of individual brilliance can compress 5 years into 2 years.
+No amount of individual brilliance can compress 5 years into 3 years.
 
 The expertise companies are demanding **literally does not exist** in the talent pool.
 
