@@ -43,7 +43,7 @@ This work has led to the development of AI-augmented analytical pipelines for mo
 - [Wavelet subband-specific learning for low-dose CT denoising (2022) – PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274308)
 - [Unsupervised Domain Adaptation for Low-Dose CT Denoising (2022) – IEEE Access](https://ieeexplore.ieee.org/document/9969607)
 - [Integration of 2D iteration and a 3D CNN-based model for multi-type artifact suppression in C-arm CBCT (2021) – Machine Vision and Applications](https://link.springer.com/article/10.1007/s00138-021-01240-3)
-- [NTIRE 2020 Challenge on Real Image Denoising (2020) – CVPR Workshop](https://ieeexplore.ieee.org/document/9151047)
+<!-- - [NTIRE 2020 Challenge on Real Image Denoising (2020) – CVPR Workshop](https://ieeexplore.ieee.org/document/9151047) -->
 
 ---
 
