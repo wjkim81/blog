@@ -5,11 +5,10 @@ date: 2025-11-21
 published: true
 categories: [AI, Psychology]
 tags: [AI, Gemini 3.0, Psychology, Reasoning]
+permalink: /my-ai-evaluation/
 ---
 
 *One Year of Using AI Every Day — And How Gemini Finally Passed My Personal Test*
-
-*개인적인 AI 모델 평가 방법*
 
 ---
 
@@ -503,7 +502,9 @@ You finally made it.
 
 ---
 
-# **AI를 매일 1년 동안 사용하며 느낀 점 — 그리고 왜 이제야 Gemini가 내 기준을 통과했는가**
+# 🇰🇷 **AI를 매일 1년 동안 사용하며 느낀 점 — 그리고 왜 이제야 Gemini가 내 기준을 통과했는가**
+
+*개인적인 AI 모델 평가 방법*
 
 ### **0. AI 세계에서의 아이러니**
 

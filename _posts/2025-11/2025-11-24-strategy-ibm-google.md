@@ -5,6 +5,7 @@ date: 2025-11-24
 published: true
 categories: [Business]
 tags: [AI, Cloud, Strategy]
+permalink: /strategy-ibm-google/
 ---
 
 *A former IBMer's reflection on strategic courage, cultural inertia, and the world after ChatGPT.*
@@ -158,11 +159,12 @@ The choice is simple, and it determines the fate of your company: **Strategic Co
 
 ---
 
+
+# 🇰🇷 두 기업, 하나의 전환점, 완전히 다른 반응
+
 *IBMer가 돌아보는 전략적 용기, 조직 문화의 관성, 그리고 ChatGPT 이후의 세계.*
 
 ---
-
-## 두 기업, 하나의 전환점, 완전히 다른 반응
 
 IBM과 구글.
 둘 다 한때는  업계를 지배한 기술 기업이었고, 엄청난 자원·재능·시장 지위를 가지고 있었고,

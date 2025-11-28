@@ -5,11 +5,10 @@ date: 2025-11-20
 published: true
 categories: [AI]
 tags: [AI, Orchestration, RAG, Prompt]
+permalink: /chatgpt-ui-is-not-simple/
 ---
 
 *I Built a RAG System in 5 Days. Here's Why It Failed (And What I Learned)*
-
-*5일 만에 RAG 시스템을 직접 구축하며 깨달은 모든 것*
 
 ---
 
@@ -342,11 +341,13 @@ Fortunately, I am enjoying this learning!
 
 ---
 
-# *ChatGPT/Claude 프로젝트 UI는 단순한 “프롬프트 입력창”이 아니다*
+# 🇰🇷 *ChatGPT/Claude 프로젝트 UI는 단순한 “프롬프트 입력창”이 아니다*
+
+*5일 만에 RAG 시스템을 직접 구축하며 깨달은 모든 것*
 
 ---
 
-## **5일 동안 RAG 시스템을 만들고 그 5일이 내게 준 깨달음**
+## **5일 동안 RAG 시스템을 만들고 내가 얻은 깨달음**
 
 첫째 날, 자신감에 참.
 셋째 날, 혼란스러움.

@@ -5,11 +5,10 @@ date: 2025-11-19
 published: true
 categories: [AI]
 tags: [AI, RAG, Research, Productivity]
+permalink: /learning-from-one-year-ai-usage/
 ---
 
 *One Year of Heavy AI Usage (ChatGPT and Claude prompt) — What I Really Learned*
-
-*AI를 1년간 매일 사용하며 깨달은 핵심*
 
 Over the past year, I used AI tools more intensely than almost anyone around me.
 Not casually, not for a few prompts a day — but as a core part of my research, writing, system design, and even psychological analysis.
@@ -244,7 +243,11 @@ And that is the biggest lesson of all.
 
 ---
 
-# **AI prompt (ChatGPT, Claude)를 1년 동안 매일같이 사용하며 내가 진짜로 느낀 것들**
+# 🇰🇷 **AI prompt (ChatGPT, Claude)를 1년 동안 매일같이 사용하며 내가 진짜로 느낀 것들**
+
+*AI를 1년간 매일 사용하며 깨달은 핵심*
+
+---
 
 지난 1년 동안 AI 도구를 **내가 지금 진행하고 있는 연구, 사람 심리, 그리고 전반적인 IT 기술 및 여러 분야/주제에** 대해서 ChatGPT, Claude를 매우 강도 높게 써보았다.
 

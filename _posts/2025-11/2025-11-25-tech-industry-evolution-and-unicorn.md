@@ -5,6 +5,7 @@ date: 2025-11-26
 published: true
 categories: [AI]
 tags: [AI, Career, Industry]
+permalink: /unicorn-series/part-1/
 ---
 
 *Why the "AI expert" job posting asks for something that actually doesn't exist—and why this time is different from every previous tech wave.*
@@ -381,6 +382,10 @@ There is a deeper problem that makes AI expertise **uniquely impossible**, not j
 
 That is the next part of this series.
 
+> Before jumping into Part 2, I wrote a short reflection on why execution matters more than perfection—especially when building or writing about AI.
+> 
+> 👉 Read it here: Execution Over Perfection
+
 ---
 
 **Next: “Part 2 — The Great Reset: Why ‘5 Years LLM Experience’ Is Mathematically Impossible.”**
@@ -391,7 +396,7 @@ That is the next part of this series.
 
 ---
 
-## Part 1: 잘생긴 말에서 실제 유니콘까지
+# 🇰🇷 Part 1: 잘생긴 말에서 실제 유니콘까지
 
 *요즘 AI 전문가 채용 공고를 보면 그냥 ‘과한 기준’이 아니라
 ‘존재하지 않는 사람’을 찾고 있다고 생각한다.
